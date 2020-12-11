@@ -27,3 +27,5 @@ arr.forEach((n) => {
   }
 })
 console.log(sum);
+
+//forEach() 메소드는 array의 엘리먼트 를 돌면서 출력하는 함수;
